@@ -1,0 +1,47 @@
+[
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=1303019042",
+        "songid": 1303019042,
+        "title": "DDU-DU DDU-DU (Japanese Ver.)",
+        "author": "BLACKPINK",
+        "url": "http://music.163.com/song/media/outer/url?id=1303019042.mp3",
+        "pic": "http://p1.music.126.net/5vwzbhdPDkAd0aE9MKuNwg==/109951163470028455.jpg?param=300x300"
+    },
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=1313558538",
+        "songid": 1313558538,
+        "title": "满足",
+        "author": "肖战",
+        "url": "http://music.163.com/song/media/outer/url?id=1313558538.mp3",
+        "pic": "http://p2.music.126.net/rF6m9HfXqAZptLngigQXJg==/109951163668999283.jpg?param=300x300"
+    },
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=29019227",
+        "songid": 29019227,
+        "title": "Sugar",
+        "author": "Maroon 5",
+        "url": "http://music.163.com/song/media/outer/url?id=29019227.mp3",
+        "pic": "http://p1.music.126.net/RkbAVgGxk1Nr5fjuaR9dww==/19175482788569403.jpg?param=300x300"
+    },
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=17753708",
+        "songid": 17753708,
+        "title": "Essa",
+        "author": "Otros Aires",
+        "url": "http://music.163.com/song/media/outer/url?id=17753708.mp3",
+        "pic": "http://p2.music.126.net/TEG-V5hUKlJ0Gc5O4NO_oQ==/2538772349916486.jpg?param=300x300"
+    },
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=31311140",
+        "songid": 31311140,
+        "title": "血腥爱情故事",
+        "author": "张惠妹",
+        "url": "http://music.163.com/song/media/outer/url?id=31311140.mp3",
+        "pic": "http://p2.music.126.net/BfErSrfqI0t2i7cmLFUQcA==/109951163250169128.jpg?param=300x300"
+    }
+]
