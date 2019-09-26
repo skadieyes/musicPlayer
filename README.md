@@ -1,4 +1,6 @@
 # 一个音乐播放器
+> [skady的音乐播放器](https://skadieyes.github.io/musicPlayer/app/index.html)
+> ![alt text](https://skadieyes.github.io/musicPlayer/assets/qrcode.png "qrCode")
 ## getJsonData
     1. 使用puppeteer模拟打开一个chorme, 并访问页面
     2. 通过puppeteer的launch方法生成了一个browser的实例，对应于浏览器，launch方法可以传入配置项，比较有用的是在本地调试时传入{headless:false}可以关闭headless模式。
