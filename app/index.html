@@ -106,8 +106,7 @@
                 axios.get(url).then(res => {
                     this.list = res.data.map(item => {
                         item.show = true
-                        const mediaType = item.url.split('?')[0].split('com/')[1].split('.')[1]
-                        item.url = `http://py2tzsk49.bkt.clouddn.com/${item.songid}.${mediaType}`
+                        item.url = `http://py2tzsk49.bkt.clouddn.com/${item.songid}.mp3`
                         return item
                     })
                     this.playing = Object.assign({lrcData: ''}, this.list[0])
