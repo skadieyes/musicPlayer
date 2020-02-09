@@ -1,15 +1,6 @@
 [
     {
         "type": "netease",
-        "link": "http://music.163.com/#/song?id=1303019042",
-        "songid": 1303019042,
-        "title": "DDU-DU DDU-DU (Japanese Ver.)",
-        "author": "BLACKPINK",
-        "url": "http://music.163.com/song/media/outer/url?id=1303019042.mp3",
-        "pic": "http://p1.music.126.net/5vwzbhdPDkAd0aE9MKuNwg==/109951163470028455.jpg?param=300x300"
-    },
-    {
-        "type": "netease",
         "link": "http://music.163.com/#/song?id=1313558538",
         "songid": 1313558538,
         "title": "满足",
@@ -52,5 +43,14 @@
         "author": "Alice Merton",
         "url": "http://music.163.com/song/media/outer/url?id=444324644.mp3",
         "pic": "http://p1.music.126.net/6w3ejK366aEXocF8R1vK_A==/109951163406353223.jpg?param=300x300"
-    }
+    },
+    {
+        "type": "netease",
+        "link": "http://music.163.com/#/song?id=1303019042",
+        "songid": 1303019042,
+        "title": "DDU-DU DDU-DU (Japanese Ver.)",
+        "author": "BLACKPINK",
+        "url": "http://music.163.com/song/media/outer/url?id=1303019042.mp3",
+        "pic": "http://p1.music.126.net/5vwzbhdPDkAd0aE9MKuNwg==/109951163470028455.jpg?param=300x300"
+    },
 ]
