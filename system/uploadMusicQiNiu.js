@@ -3,10 +3,8 @@ const path = require('path')
 const fs = require('fs')
 const CONFIG = require('./CONFIG')
 
-console.log('config')
-console.log(CONFIG)
 const { ACCESS_KEY, SECRET_KEY, bucket } = CONFIG.config
-console.log( ACCESS_KEY )
+
 // 生成凭证
 const mac = new qiniu.auth.digest.Mac(ACCESS_KEY, SECRET_KEY)
 const putPolicy = new qiniu.rs.PutPolicy({
@@ -16,7 +14,7 @@ const uploadToken = putPolicy.uploadToken(mac)
 
 // 添加配置
 const config = new qiniu.conf.Config()
-config.zone = qiniu.zone.Zone_z2
+config.zone = qiniu.zone.Zone_z0
 
 // 表单上传
 function uploadMusic(filePath, key) {
